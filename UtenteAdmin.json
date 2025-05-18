@@ -1,0 +1,15 @@
+{
+	"codFidelity" : "-1",
+	"userId" : "Admin",
+    "password" : "VerySecretPwd",
+	"abilitato" : "Si",
+	"profili" : 
+	[
+		{
+			"tipo" : "USER"
+		},
+		{
+			"tipo" : "ADMIN"
+		}
+	]
+}

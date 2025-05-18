@@ -1,0 +1,12 @@
+{
+	"codFidelity" : "67000215",
+	"userId" : "Nicola",
+    "password" : "123_Stella",
+	"abilitato" : "Si",
+	"profili" : 
+	[
+		{
+			"tipo" : "USER"
+		} 
+	]
+}

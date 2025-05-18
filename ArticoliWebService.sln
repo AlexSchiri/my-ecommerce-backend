@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ArticoliWebService", "ArticoliWebService.csproj", "{C59A11FB-50C4-472A-946F-FF15EA282A93}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C59A11FB-50C4-472A-946F-FF15EA282A93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C59A11FB-50C4-472A-946F-FF15EA282A93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C59A11FB-50C4-472A-946F-FF15EA282A93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C59A11FB-50C4-472A-946F-FF15EA282A93}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FD698192-8551-4A4A-9653-C39A98E34DC9}
+	EndGlobalSection
+EndGlobal
